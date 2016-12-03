@@ -1,5 +1,6 @@
 David M. Alter
 Texas Instruments, Inc.
+¹þ¹þ
 September 29, 2008  111
 ----------------------------------
 
